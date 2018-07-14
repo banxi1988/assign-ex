@@ -1,6 +1,6 @@
 {
   "name": "deep-assign-v2",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Like Object.assign,but assign deeply if needed.",
   "main": "./dist/index.js",
   "types": "./dist/index.d.ts",
