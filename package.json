@@ -13,12 +13,12 @@
   "author": "banxi",
   "repository": {
     "type": "git",
-    "url": "https://github.com/banxi1988/date-ex.git"
+    "url": "https://github.com/banxi1988/deep-assign-v2.git"
   },
   "bugs": {
-    "url": "https://github.com/banxi1988/date-ex/issues"
+    "url": "https://github.com/banxi1988/deep-assign-v2/issues"
   },
-  "homepage": "https://github.com/banxi1988/date-ex#readme",
+  "homepage": "https://github.com/banxi1988/deep-assign-v2#readme",
   "license": "MIT",
   "devDependencies": {
     "@types/chai": "^4.1.3",
