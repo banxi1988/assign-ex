@@ -2,7 +2,7 @@
 
 [![Build Status](https://travis-ci.org/banxi1988/deep-assign-v2.svg?branch=master)](https://travis-ci.org/banxi1988/deep-assign-v2)
 
-Object.assign 's like deep version
+Like Object.assign,but assign deeply if needed.
 
 ## Installation
 
