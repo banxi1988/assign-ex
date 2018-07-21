@@ -1,20 +1,20 @@
-# deep-assign-v2
+# assign-ex
 
-[![Build Status](https://travis-ci.org/banxi1988/deep-assign-v2.svg?branch=master)](https://travis-ci.org/banxi1988/deep-assign-v2)
+[![Build Status](https://travis-ci.org/banxi1988/assign-ex.svg?branch=master)](https://travis-ci.org/banxi1988/assign-ex)
 
 Like Object.assign,but assign deeply if needed.
 
 ## Installation
 
-1.  `npm i deep-assign-v2 -S`
-2.  `yarn add deep-assign-v2`
+1.  `npm i assign-ex -S`
+2.  `yarn add assign-ex`
 
 ## Usage
 
 ### JavaScript
 
 ```js
-const deep_assign = require("deep-assign-v2").default;
+const deep_assign = require("assign-ex").default;
 
 it("deep assign override", () => {
   const objA = {
@@ -52,7 +52,7 @@ import "date-assign-v2";
 
 ### Full check api list
 
-[api list](https://github.com/banxi1988/deep-assign-v2/blob/master/dist/index.d.ts)
+[api list](https://github.com/banxi1988/assign-ex/blob/master/dist/index.d.ts)
 
 ## Test
 

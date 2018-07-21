@@ -1,7 +1,7 @@
 {
-  "name": "deep-assign-v2",
+  "name": "assign-ex",
   "version": "1.0.2",
-  "description": "Like Object.assign,but assign deeply if needed.",
+  "description": "Offer deepAssign,deepCopy,sameCopy utility functions",
   "main": "./dist/index.js",
   "types": "./dist/index.d.ts",
   "scripts": {
@@ -13,12 +13,12 @@
   "author": "banxi",
   "repository": {
     "type": "git",
-    "url": "https://github.com/banxi1988/deep-assign-v2.git"
+    "url": "https://github.com/banxi1988/assign-ex.git"
   },
   "bugs": {
-    "url": "https://github.com/banxi1988/deep-assign-v2/issues"
+    "url": "https://github.com/banxi1988/assign-ex/issues"
   },
-  "homepage": "https://github.com/banxi1988/deep-assign-v2#readme",
+  "homepage": "https://github.com/banxi1988/assign-ex#readme",
   "license": "MIT",
   "devDependencies": {
     "@types/chai": "^4.1.3",
